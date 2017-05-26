@@ -1,10 +1,11 @@
-#Calculator project
-###Used technologies:
+Calculator project
+
+Used technologies:
 
 - JavaScript with jQuery
 - Bootstrap
 
-###Possible Operation:
+Possible Operation:
  
 - addition
 - subtraction 
