@@ -1,11 +1,11 @@
-Calculator project
+# Calculator project
 
-Used technologies:
+### Used technologies:
 
 - JavaScript with jQuery
 - Bootstrap
 
-Possible Operation:
+### Possible Operation:
  
 - addition
 - subtraction 
@@ -20,3 +20,6 @@ Possible Operation:
 - ten to the power of  minus x
 - factorial 
 - modulo 
+### Author
+
+* **Łukasz Materla** -[Profile](https://github.com/lukaszmaterla)
