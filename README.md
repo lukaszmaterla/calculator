@@ -22,4 +22,4 @@
 - modulo 
 ### Author
 
-* **Łukasz Materla** -[Profile](https://github.com/lukaszmaterla)
+* **Łukasz Materla** - [Profile](https://github.com/lukaszmaterla)
